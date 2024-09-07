@@ -33,3 +33,5 @@
 ||*goukx.net^
 ||*qnvipmall.com^
 ||*mdm.^
+||icloud.com^$ctag=~device_phone
+||icloud.com.cn^$ctag=~device_phone
