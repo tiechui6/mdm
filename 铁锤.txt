@@ -1,0 +1,35 @@
+﻿! 作者:铁锤
+! 作用: 屏蔽系统更新, 屏蔽监管锁, 屏蔽ID贷
+! 铁锤微信: ruifeng881
+! 版本号: 20240907
+! 最后更新时间: 2024/09/07
+! 当前状态: 屏蔽生效
+!
+||mesu.apple.com^
+||gdmf.apple.com^
+||oscp.apple.com^
+||gg.apple.com^
+||*cheermyapp.com^
+||*hnzzx.com^
+||*aisheji.cloud^
+||*yizu166.com^
+||*zulianyun.com^
+||*zu99.cn^
+||*ishalou.com^
+||*zubaobei.net.cn^
+||*yilinzulin.com^
+||*huanhuanxin.com^
+||*hongcaikeji.com^
+||*rrzuji.com^
+||*bnplsys.cn^
+||*aisecond.com^
+||*myjf-mdm.com^
+||*pinpinkeji.cn^
+||*applemdm.cn^
+||*shoujimama.cn^
+||*mdmzuji.com^
+||*guangzhoushibeike.com^
+||*mdm.plus^
+||*goukx.net^
+||*qnvipmall.com^
+||*mdm.^
